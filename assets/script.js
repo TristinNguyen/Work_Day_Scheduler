@@ -53,5 +53,6 @@ $(document).ready(function () {
         }
     }
 
+    getFromLocalStorage();
     init();
 });
